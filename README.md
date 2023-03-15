@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Java developer
 ---------------------
 
-I am in the middle of the process of switching careers right now. For now I'm a qualified lawyer with more than 4 years of experience. But I have always been keen to modern technology, especially IT-sphere. So, I decided to become a professional programmer. I started several months ago with learning basics of operation systems, CVS, and familiarising with different programming languages (via manuals, books, learning videos etc.). And recently I have found a passion for back-end and Java, which I currently learn.
+I am in the middle of the process of switching careers right now. For now, I'm a qualified lawyer with more than 4 years of experience. But I have always been keen on modern technologies, especially in IT-sphere. So, I decided to become a professional programmer. I started several months ago with learning basics of operation systems, CVS, and familiarising with different programming languages (via manuals, books, learning videos etc.). And recently I have found a passion for back-end and Java, which I currently learn.
 
 * 🌍  I'm based in Belgrade, Serbia
 * 🖥️  See my portfolio at [GitHub](http://github.com/DmitriiGoltsov)
@@ -12,7 +12,7 @@ I am in the middle of the process of switching careers right now. For now I'm a 
 * 🚀  I'm currently working on [My third pet project - Data Validator](http://github.com/DmitriiGoltsov/java-project-78)
 * 🧠  I'm learning SQL basics, HTTP, CSS and web-design basics, SICP
 * 🤝  I'm open to collaborating on All possible projects, especially Open Source ones.
-* ⚡  Besides my passion for the IT-industry, I'm keen in history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English, French (can read newspapers and write simple texts) and a little bit of Serbian.
+* ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English, French (can read newspapers and write simple texts) and a little bit of Serbian.
 
 ### Skills
 
