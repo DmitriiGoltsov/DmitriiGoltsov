@@ -9,8 +9,8 @@ I am in the middle of the process of switching careers right now. For now, I'm a
 I started several months ago with learning basics of operating systems, CVS, and familiarising with different programming languages (via manuals, books, learning videos etc.). And recently I have found a passion for back-end and Java, which I currently learn.
 
 * 🌍  I'm based in Belgrade, Serbia
-* 🖥️  See my portfolio at [GitHub](http://github.com/DmitriiGoltsov)
-* ✉️  You can contact me at [dmitriy.goltsov@mail.ru](mailto:dmitriy.goltsov@mail.ru)
+* 🖥️  See my portfolio at [GitHub](https://github.com/DmitriiGoltsov?tab=repositories)
+* ✉️  You can contact me at [dmitrij.golzow@gmail.com](mailto:dmitrij.golzow@gmail.com)
 * 🚀  I'm currently working on [My third pet project - Data Validator](http://github.com/DmitriiGoltsov/java-project-78)
 * 🧠  I'm learning SQL basics, HTTP, CSS and web-design basics, SICP
 * 🤝  I'm open to collaborating on All possible projects, especially Open Source ones.
@@ -30,6 +30,7 @@ I started several months ago with learning basics of operating systems, CVS, and
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DmitriiGoltsov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmitrii-goltsov-1119a6b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21404950/dmitrii-goltsov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
