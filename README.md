@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitrii Goltsov
+Hi, My name is Dmitrii Goltsov
 =======================================================================================================================================
 
 Junior Java developer
@@ -10,9 +10,10 @@ I started several months ago with learning basics of operating systems, CVS, and
 
 * 🌍  I'm based in Belgrade, Serbia
 * 🖥️  See my portfolio at [GitHub](https://github.com/DmitriiGoltsov?tab=repositories)
-* ✉️  You can contact me at [dmitrij.golzow@gmail.com](mailto:dmitrij.golzow@gmail.com)
+* 📄️ My CVs in English or Russian can be found [here](https://github.com/DmitriiGoltsov/Resumes-and-related-links) 
+ * ✉️  You can contact me at [dmitrij.golzow@gmail.com](mailto:dmitrij.golzow@gmail.com)
 * 🚀  I'm currently working on [My third pet project - Data Validator](http://github.com/DmitriiGoltsov/java-project-78)
-* 🧠  I'm learning SQL basics, HTTP, CSS and web-design basics, SICP
+* 🧠  I'm learning SQL basics, HTTP, HTML, CSS, Java EE basics, and SICP
 * 🤝  I'm open to collaborating on All possible projects, especially Open Source ones.
 * ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English, French (can read newspapers and write simple texts) and a little bit of Serbian.
 
