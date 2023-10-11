@@ -12,7 +12,7 @@ I started several months ago with learning basics of operating systems, CVS, and
 * 🖥️  See my portfolio at [GitHub](https://github.com/DmitriiGoltsov?tab=repositories)
 * 📄️ My CVs in English or Russian can be found [here](https://github.com/DmitriiGoltsov/Resumes-and-related-links) 
  * ✉️  You can contact me at [dmitrij.golzow@gmail.com](mailto:dmitrij.golzow@gmail.com)
-* 🚀  I'm currently working on [My third pet project - Data Validator](http://github.com/DmitriiGoltsov/java-project-78)
+* 🚀  I'm currently working on [My fifth pet project - Task Manager on Spring Boot](https://github.com/DmitriiGoltsov/java-project-73)
 * 🧠  I'm learning SQL basics, HTTP, HTML, CSS, Java EE basics, and SICP
 * 🤝  I'm open to collaborating on All possible projects, especially Open Source ones.
 * ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English, French (can read newspapers and write simple texts) and a little bit of Serbian.
