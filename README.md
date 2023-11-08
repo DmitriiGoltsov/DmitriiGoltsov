@@ -16,7 +16,7 @@ I started more than a year ago with learning basics of operating systems, CVS, a
 * 🤝  I'm opened to collaborating on all possible projects, including Open Source ones.
 * ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English and French (can read newspapers and write simple texts).
 
-### Skills
+### Main skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
