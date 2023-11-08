@@ -6,16 +6,15 @@ Junior Java developer
 
 I am in the middle of the process of switching careers right now. For now, I'm a qualified lawyer with more than 4 years of experience. But I have always been keen on modern technologies, especially in IT-sphere. So, I decided to become a professional programmer. 
 
-I started several months ago with learning basics of operating systems, CVS, and familiarising with different programming languages (via manuals, books, learning videos etc.). And recently I have found a passion for back-end and Java, which I currently learn.
+I started more than a year ago with learning basics of operating systems, CVS, and familiarising with different programming languages (via manuals, books, learning videos etc.). And I have found a passion for back-end and Java, which I currently learn.
 
-* 🌍  I'm based in Belgrade, Serbia
 * 🖥️  See my portfolio at [GitHub](https://github.com/DmitriiGoltsov?tab=repositories)
 * 📄️ My CVs in English or Russian can be found [here](https://github.com/DmitriiGoltsov/Resumes-and-related-links) 
  * ✉️  You can contact me at [dmitrij.golzow@gmail.com](mailto:dmitrij.golzow@gmail.com)
-* 🚀  I'm currently working on [My fifth pet project - Task Manager on Spring Boot](https://github.com/DmitriiGoltsov/java-project-73)
-* 🧠  I'm learning SICP, Spring Security, Java Multithreading & Concurrency
-* 🤝  I'm opened to collaborating on All possible projects, including Open Source ones.
-* ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English, French (can read newspapers and write simple texts) and a little bit of Serbian.
+* 🚀  I have just finished [My fifth pet project - Task Manager on Spring Boot](https://github.com/DmitriiGoltsov/java-project-73)
+* 🧠  I'm studying Kotlin, Algorithms, Spring Security, Java Multithreading & Concurrency;
+* 🤝  I'm opened to collaborating on all possible projects, including Open Source ones.
+* ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English and French (can read newspapers and write simple texts).
 
 ### Skills
 
