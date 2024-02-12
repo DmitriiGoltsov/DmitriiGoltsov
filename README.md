@@ -11,10 +11,10 @@ I started more than a year ago with learning basics of operating systems, CVS, a
 * 🖥️  See my portfolio at [GitHub](https://github.com/DmitriiGoltsov?tab=repositories)
 * 📄️ My CVs in English or Russian can be found [here](https://github.com/DmitriiGoltsov/Resumes-and-related-links) 
  * ✉️  You can contact me at [dmitrij.golzow@gmail.com](mailto:dmitrij.golzow@gmail.com)
-* 🚀  I have just finished [My fifth pet project - Task Manager on Spring Boot](https://github.com/DmitriiGoltsov/java-project-73)
-* 🧠  I'm studying Kotlin, Algorithms, Spring Security, Java Multithreading & Concurrency;
+* 🚀  I have just finished [My sixth pet project - Dispatch-kafka-service](https://github.com/DmitriiGoltsov/Dispatch-kafka-service)
+* 🧠  I study Kotlin, Algorithms, Spring Framework, Java Multithreading & Concurrency;
 * 🤝  I'm opened to collaborating on all possible projects, including Open Source ones.
-* ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian and I also speak English and French (can read newspapers and write simple texts).
+* ⚡  Besides my passion for the IT-industry, I'm keen on history, linguistics, philosophy and foreign cultures. My mother tongue is Russian, but I also speak English (C1) and French (can read newspapers and write simple texts).
 
 ### Main skills
 
@@ -27,6 +27,8 @@ I started more than a year ago with learning basics of operating systems, CVS, a
 <a href="https://www.gradle.org/" target="_blank" rel="noreferrer"><img src="https://gradle.com/wp-content/themes/fuel/assets/img/branding/gradle-elephant-icon-gradient.svg" width="36" height="36" alt="Gradle" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://editorconfig.org/logos/maven.png" width="36" height="36" alt="Maven" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://static.afariat.com/media/cache/search_details/uploads/photos/a286f556a26bf007a3f79652c41f833387cf2a07.jpg" width="60" height="36" alt="Spring Framework" /></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://1.bp.blogspot.com/-xgHQMZyOny0/XwPODRDlOgI/AAAAAAAAPtU/nCkJ4W2JivIpNXXvHbb8v33qVZhCRmBcwCK4BGAsYHg/s881/junit5.jpeg" width="60" height="36" alt="JUnit 5" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:905/0*OPj-nA_DG9tVDDNw" width="60" height="36" alt="Apache Kafka" /></a>
 </p>
 
 ### Socials
